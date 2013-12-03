@@ -1,4 +1,4 @@
-# 2014 Local Body Tax (LBT) Receipts of Miami-Dade County
+# 2014 Local Business Tax (LBT) Receipts of Miami-Dade County
 
 The following is a CSV file of the 2014 Local Business Tax (LBT) Receipts of Miami-Dade County. 
 
